@@ -4,10 +4,11 @@
 * Интро
 * Figma
 * GitHub Pages
+* Технологии
 
 **Интро**
 
-Проект о путешествии по России сверстанный за ночь с котом и комарами
+Проект о путешествии по России сверстанный за ночь из Figma с котом и комарами.
 
 **Figma**
 
@@ -15,4 +16,14 @@
 
 **GitHub Pages**
 
-* [Ссылка на GitHub Pages] 
+* [Ссылка на GitHub Pages](https://karvit.github.io/russian-travel/)
+
+**Технологии**
+
+* HTML
+* CSS
+* Flexbox
+* BEM Methodology
+* Grid Layout
+* Git
+* Figma
