@@ -1,0 +1,22 @@
+.cover__overlay {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration-line: none;
+  flex-direction: column;
+  width: 100%;
+  min-height: 740px;
+  transition: background-color .5s cubic-bezier(0.4, 0, 0.2, 1);
+  background-color: rgba(42, 44, 47, .3);
+  color: white;
+}
+
+.cover__overlay:hover {
+  background-color: rgba(42, 44, 47, .8);
+}
+
+@media screen and (max-width: 1279px) {
+  .cover__overlay {
+    min-height: 62.5vw;
+  }
+}

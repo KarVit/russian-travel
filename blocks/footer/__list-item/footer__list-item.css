@@ -1,0 +1,13 @@
+.footer__list-item {
+  display: block;
+  padding-right: 18px;
+}
+
+@media screen and (max-width: 767px) {
+  .footer__list-item:last-of-type {
+    padding-bottom: 48px;
+  }
+  .footer__list-item:not(:last-of-type) {
+    padding-bottom: 32px;
+  }
+}
