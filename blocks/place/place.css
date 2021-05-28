@@ -40,7 +40,4 @@
     grid-template-columns: 320px;
     grid-row-gap: 32px;
   }
-  .place:last-of-type {
-    padding-bottom: 66px;
-}
 }
